@@ -1,12 +1,12 @@
 #include<stdio.h>
 void main(){            
-  int num1,num2;
-  printf(" \n Enter two numbers : ");
-  scanf("%d%d",&num1,&num2);
-  if(num1>num2){
-    printf("\n %d is greater than %d",num1,num2);
+   int num;
+  printf("\n Enter a number : \t ");
+  scanf("%d",&num);
+  if(num % 2 == 0 ){
+    printf("\n  %d is Even number .",num );
   }
-  if (num2>num1){
-    printf("\n %d is greater than %d",num2,num1);
+  else{
+    printf("\n \t %d is Odd number .",num);
   }
 }
