@@ -471,9 +471,9 @@ void main(){
 
   </div>
 
-  <hr>
-    <!-- //Program 10 -->
-    <div class="container">
+   <hr>
+     <!-- //Program 10 -->
+     <div class="container">
       <h4>Program 10 </h4>
       <h3># &nbsp; Write A program to check whether the number is even or odd . </h3>
       <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fiv8Fe6vNPLYNPiqDStlksv%2FFlowchart-and-Algorithm-Assign.-10%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
@@ -511,7 +511,120 @@ void main(){
 </code></pre>
 
 
-  </div>
+   </div>
+
+   <hr>
+   <!-- //Program 11 -->
+   <div class="container">
+    <h4>Program 11 </h4>
+    <h3># &nbsp; Write A program to perform addition of 2 numbers if first number is smaller than second otherwise perform subtraction . </h3>
+    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FhKWhjYjhcurbula3gnP91J%2FFlowchart-and-Algorithm-Assign.-11%3Fnode-id%3D0%253A1" allowfullscreen></iframe><pre><code class="C">
+// Write A program to perform addition of 2 numbers if first number is smaller than second otherwise perform subtraction .
+
+#include&lt;stdio.h&gt; 
+void main()
+{
+  int num1, num2, result;
+  printf("\n Enter any two number : \n ");
+  scanf("%d%d", &num1, &num2);
+  if (num1 < num2)
+  {
+    printf(" \n \t %d is Smaller than %d hence ,\n", num1, num2);
+    result = num1 + num2;
+    printf("\n \t Addition of %d + %d = %d \n ", num1, num2, result);
+  }
+  else
+  {
+    printf(" \n \t %d is Greater  than %d hence ,\n", num1, num2);
+    result = num1 - num2;
+    printf("\n \t Subtraction  of %d - %d =  %d \n ", num1, num2, result);
+  }
+}
+
+
+<div class="output">                            
+
+  Output :
+
+  CASE First:-
+
+      Enter any two  numbers  : 
+  
+      <span style="background-color: azure;"> 10  </span> 
+  
+      <span style="background-color: azure;"> 20  </span> 
+  
+      
+         
+      <span style="background-color: azure;"> 10 </span> is Smaller than <span style="background-color: azure;"> 20  </span> hence , 
+  
+      Addition of  <span style="background-color: azure;"> 10  </span>  + <span style="background-color: azure;"> 20  </span> = <span style="background-color: azure;"> 30  </span>
+         
+
+  CASE Second :- 
+
+      Enter any two  numbers  : 
+  
+      <span style="background-color: azure;"> 30  </span> 
+  
+      <span style="background-color: azure;"> 10  </span> 
+  
+      
+         
+      <span style="background-color: azure;"> 30 </span> is Greater  than <span style="background-color: azure;"> 10  </span> hence , 
+  
+      Subtraction  of  <span style="background-color: azure;"> 30  </span> - <span style="background-color: azure;"> 10  </span> = <span style="background-color: azure;"> 20  </span>
+         </div>
+        </code></pre>
+ </div>
+
+
+ <hr>
+ <!-- //Program 12 -->
+ <div class="container">
+  <h4>Program 12 </h4>
+  <h3># &nbsp; Write A program to check whether entered character is Vowel or Consonant  . </h3>
+  <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FVb3WROWOLAIgP53Ux1Kcz8%2FFlowchart-and-Algorithm-Assign.-12%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+  
+  <pre><code class="C">
+// Write A program to check whether entered character is Vowel or Consonant  .
+
+#include&lt;stdio.h&gt; 
+void main()
+char ch ;
+   printf ("\n Enter a Character : \n ");
+   scanf("%c",&ch);
+   if(ch == 'a' || ch == 'A' ||ch == 'e' || ch == 'E' || ch == 'i' || ch == 'I' ||ch == 'o' || ch == 'O'||ch == 'u' || ch == "U" ){
+     printf(" %c is Vowel ",ch );
+   }
+   else{
+     printf("\n  %c ic Consonant ",ch);
+   }
+}
+
+
+<div class="output">                            
+
+  Output :
+
+    Enter a Character : 
+       
+     a
+      
+     a is Vowel .
+    
+     Enter a Character : 
+       
+     p
+      
+     p is Consonant .
+    
+
+       </div>
+      </code></pre>
+</div>
+
+
 
 
 
