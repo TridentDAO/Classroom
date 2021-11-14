@@ -1,32 +1,32 @@
 [
     {
-        "id": 1, "img": "https://www.brainyquote.com/photos_tr/en/l/louholtz/450789/louholtz1-2x.jpg"
+        "id": 0, "img": "https://www.brainyquote.com/photos_tr/en/l/louholtz/450789/louholtz1-2x.jpg"
     },
     {
-        "id": 2, "img": "https://www.brainyquote.com/photos_tr/en/h/hjacksonbrownjr/382774/hjacksonbrownjr1-2x.jpg"
+        "id": 1, "img": "https://www.brainyquote.com/photos_tr/en/h/hjacksonbrownjr/382774/hjacksonbrownjr1-2x.jpg"
     },
     {
-        "id": 3, "img": "https://www.brainyquote.com/photos_tr/en/n/nelsonmandela/378967/nelsonmandela1-2x.jpg"
+        "id": 2, "img": "https://www.brainyquote.com/photos_tr/en/n/nelsonmandela/378967/nelsonmandela1-2x.jpg"
     },
     {
-        "id": 4, "img": "https://www.brainyquote.com/photos_tr/en/n/nelsonmandela/378967/nelsonmandela5-2x.jpg"
+        "id": 3, "img": "https://www.brainyquote.com/photos_tr/en/n/nelsonmandela/378967/nelsonmandela5-2x.jpg"
     },
     {
-        "id": 5, "img": "https://www.brainyquote.com/photos_tr/en/s/stjerome/389605/stjerome1-2x.jpg"
+        "id": 4, "img": "https://www.brainyquote.com/photos_tr/en/s/stjerome/389605/stjerome1-2x.jpg"
     },
     {
-        "id": 6, "img": "https://www.brainyquote.com/photos_tr/en/s/stjerome/389605/stjerome5-2x.jpg"
+        "id": 5, "img": "https://www.brainyquote.com/photos_tr/en/s/stjerome/389605/stjerome5-2x.jpg"
     },
     {
-        "id": 7, "img": "https://www.brainyquote.com/photos_tr/en/h/helenrowland/119693/helenrowland1-2x.jpg"
+        "id": 6, "img": "https://www.brainyquote.com/photos_tr/en/h/helenrowland/119693/helenrowland1-2x.jpg"
     },
     {
-        "id": 8, "img": "https://www.brainyquote.com/photos_tr/en/h/helenrowland/119693/helenrowland5-2x.jpg"
+        "id": 7, "img": "https://www.brainyquote.com/photos_tr/en/h/helenrowland/119693/helenrowland5-2x.jpg"
     },
     {
-        "id": 9, "img": "https://www.brainyquote.com/photos_tr/en/s/samlevenson/166055/samlevenson1-2x.jpg"
+        "id": 8, "img": "https://www.brainyquote.com/photos_tr/en/s/samlevenson/166055/samlevenson1-2x.jpg"
     },
     {
-        "id": 10, "img": "https://www.brainyquote.com/photos_tr/en/s/samlevenson/166055/samlevenson2-2x.jpg"
+        "id": 9, "img": "https://www.brainyquote.com/photos_tr/en/s/samlevenson/166055/samlevenson2-2x.jpg"
     }
 ]
