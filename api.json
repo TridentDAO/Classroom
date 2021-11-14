@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1, "img": "quote1"
+    },
+    {
+        "id": 2, "img": "quote2"
+    },
+    {
+        "id": 3, "img": "quote3"
+    },
+    {
+        "id": 4, "img": "quote4"
+    },
+    {
+        "id": 5, "img": "quote5"
+    },
+    {
+        "id": 6, "img": "quote6"
+    },
+    {
+        "id": 7, "img": "quote7"
+    },
+    {
+        "id": 8, "img": "quote8"
+    },
+    {
+        "id": 9, "img": "quote9"
+    },
+    {
+        "id": 10, "img": "quote10"
+    }
+]
